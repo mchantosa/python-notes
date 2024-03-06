@@ -37,17 +37,27 @@
 ```
 ### Using Default Arguments
 ```python
-def can_drive_wa(age, drivers_ed = False, driving_age = 18):
-    if drivers_ed:
-        driving_age = 16
-    return age >= driving_age
+    def can_drive_wa(age, drivers_ed = False, driving_age = 18):
+        if drivers_ed:
+            driving_age = 16
+        return age >= driving_age
 
-print(can_drive_wa(18)) # Output: True
-print(can_drive_wa(17)) # Output: False
-print(can_drive_wa(17, True))   # Output: True
+    print(can_drive_wa(18)) # Output: True
+    print(can_drive_wa(17)) # Output: False
+    print(can_drive_wa(17, True))   # Output: True
 ```
 ## Recursion
-
 ```python
-
+    def fibonacci(n):   # 0, 1, 1, 2, 3, 5, 8, 13
+        mem = {0:0, 1:1}
+        if n in mem.keys():
+            return mem[n]
+        else:
+            mem[n] = fibonacci(n-1) + fibonacci(n-2)
+            return mem[n]
+    print(fibonacci(0) == 0)
+    print(fibonacci(1) == 1)
+    print(fibonacci(2) == 1)
+    print(fibonacci(7) == 13)
+    print(fibonacci(29) == 514229)
 ```
