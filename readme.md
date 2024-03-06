@@ -13,5 +13,6 @@
 * [Operators and Bindings](./operatorsAndBindings.md)
 * [Input and Output](./inputAndOutput.md) > Example: [printBio](./code/printBio.py)
 * [Conditionals and Looping](./conditionalsAndLooping.md) > Example: [nameAssess](./code/nameAssess.py)
+* [Functions](./functions.md)
 ## Labs
 1. [Making Calculations from User Inputs](./labs/makingCalcsFromUserInputs.md)
