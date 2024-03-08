@@ -1,4 +1,4 @@
-# Indexing and Slicing Python Strings
+# Using Python String Methods
 [home](../readme.md)
 
 [variations.py](./code/variations.py)

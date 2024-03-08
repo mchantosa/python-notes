@@ -26,3 +26,4 @@ Here is a [code inventory](./code/Inventory.md) I have aggregated. It has a list
 1. [Using Python Lists](./labs/usingPythonLists.md)
 1. [Using Python Dictionaries](./labs/usingPythonDictionaries.md)
 1. [Using Python String Methods](./labs/usingPythonStringMethods.md)
+1. [Using Python Conditionals]()
