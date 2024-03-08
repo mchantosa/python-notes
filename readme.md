@@ -22,3 +22,7 @@ Here is a [code inventory](./code/Inventory.md) I have aggregated. It has a list
 
 ## Labs
 1. [Making Calculations from User Inputs](./labs/makingCalcsFromUserInputs.md)
+1. [Indexing and Slicing Python Strings](./labs/indexingAndSlicingPythinStrings.md)
+1. [Using Python Lists](./labs/usingPythonLists.md)
+1. [Using Python Dictionaries](./labs/usingPythonDictionaries.md)
+1. [Using Python String Methods](./labs/usingPythonStringMethods.md)
