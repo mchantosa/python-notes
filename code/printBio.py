@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 #get user inputs
-first_name = input("What if your first name? ")
-last_name = input("What if your last name? ")
+first_name = input("What is your first name? ")
+last_name = input("What is your last name? ")
 age = int(input("How old are you? "))
 favorite_color = input("What if your favorite color? ")
 
