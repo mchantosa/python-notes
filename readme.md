@@ -26,4 +26,7 @@ Here is a [code inventory](./code/Inventory.md) I have aggregated. It has a list
 1. [Using Python Lists](./labs/usingPythonLists.md)
 1. [Using Python Dictionaries](./labs/usingPythonDictionaries.md)
 1. [Using Python String Methods](./labs/usingPythonStringMethods.md)
-1. [Using Python Conditionals]()
+1. [Using Python Conditionals](./labs/usingPythonConditionals.md)
+1. [Using Python Loops](./labs/usingPythonLoops.md)
+1. [Defining and Using Python Functions](./labs/usingPythonFunctions.md)
+1. [Defining and Using Python Generators](./labs/usingPythonGenerators.md)

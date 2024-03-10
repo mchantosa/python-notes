@@ -8,7 +8,7 @@
 * Print "Fizz" if the Value Is a Multiple of Three, and "Buzz" if it's a Multiple of Five
 
 ### Objective: 
-Create an executable file `fizz-buzz-item.py` that prompts the user for a value and prints "FizzBuzz" if the value is a multiple of 3 and 5, "Fizz" if the value is a multiple of three, and "Buzz" if it's a multiple of five
+Create an executable file `fizz-buzz-item.py` that prompts the user for a value and prints "FizzBuzz" if the value is a multiple of 3 and 5, "Fizz" if the value is a multiple of three, and "Buzz" if it's a multiple of five, print the value if it is divisible by neither 3 nor 5.
 
 ## Steps
 
