@@ -15,7 +15,7 @@ You have a file `testing-functions.py`. If you open it, you will see itemized in
 1. Open `using-dictionaries.py` and run it
     ```shell
         python3.7 ./using-functions.py
-    ```s
+    ```
 1. Pass asserts 1 and 2
     ```python
         # 1) Create the split_names Function to Separate Names
