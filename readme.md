@@ -1,8 +1,8 @@
 # Material
 * [Installing Python on an M1 Mac](./installingPython.md)
 * [Fundamentals of Python](./fundamentalsOfPython.md)
-* [Literals, Variables, and Comments](./literalsVariablesComments.md)
 * Types
+    * [Literals, Variables, and Comments](./types/literalsVariablesComments.md)
     * [Strings](./types/strings.md)
     * [Booleans](./types/bools.md)
     * [Numbers](./types/numbers.md)
@@ -11,8 +11,8 @@
     * [Dictionaries](./types/dictionaries.md)
     * [Type Casting](./types/typeCasting.md)
 * [Operators and Bindings](./operatorsAndBindings.md)
-* [Input and Output](./inputAndOutput.md) > Example: [printBio](./code/printBio.py)
-* [Conditionals and Looping](./conditionalsAndLooping.md) > Example: [nameAssess](./code/nameAssess.py)
+* [Input and Output](./inputAndOutput.md) 
+* [Conditionals and Looping](./conditionalsAndLooping.md) 
 * [Functions](./functions.md)
 * [Generators](./generators.md)
 * [Scopes and Globals](./scopesAndGlobals.md)

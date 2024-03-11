@@ -1,5 +1,5 @@
 # Literals, Variables, and Comments
-[home](./readme.md)
+[home](../readme.md)
 
 ## Comments
 Comments in Python are done with a `#`. 
@@ -20,6 +20,15 @@ Comments in Python are done with a `#`.
     Python has no block comments.
     """
 ```
+## Literals
+Python has three types of literals
+* [strings](./strings.md)
+* [booleans](./bools.md)
+* [numbers](./numbers.md), numbers com in the flavors
+    * Integers
+    * Floats
+    * Complex
+
 ## Variables
 Variables are containers for storing data values. Unlike other programming languages, Python has no command for declaring a variable. A variable is created the moment you first assign a value to it. Variables do not need to be declared with any particular type and can even change type after they have been set.
 ```python
@@ -39,30 +48,3 @@ Variables are containers for storing data values. Unlike other programming langu
     myNum = 5
     print(myNum)    # 5
 ```
-
-## Types
-### Strings
-Strings can be enclosed in single or double quotes. 
-```python
-    #single and double quotes
-    str = 'this is a string'
-    print(str)    # this is a string
-
-    str = "this is also a string"
-    print(str)    # this is also a string
-
-    #multiline strings
-    str = '''
-    this is a 
-    multiline string
-    '''
-    print(str)    #/nthis is a /n multiline string/n
-
-    str = """
-    this is also a 
-    multiline string
-    """
-    print(str)    #/nthis is also a/nmultiline string/n
-```
-### Booleans
-### Numbers
