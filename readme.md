@@ -4,7 +4,7 @@
 * Types
     * [Literals, Variables, and Comments](./types/literalsVariablesComments.md)
     * [Strings](./types/strings.md)
-    * [Booleans](./types/bools.md)
+    * [Booleans, truthiness, and none](./types/boolsTruthinessNone.md)
     * [Numbers](./types/numbers.md)
     * [Lists](./types/lists.md)
     * [Tuples](./types/tuples.md)
@@ -16,6 +16,10 @@
 * [Functions](./functions.md)
 * [Generators](./generators.md)
 * [Scopes and Globals](./scopesAndGlobals.md)
+* [Libraries](./libraries.md)
+* [Reading and Writing to and from Files](./readAndWriteFiles.md)
+* [Environment Variables](./environmentVariables.md)
+* [Error Handling](./errorHandling.md)
 
 ## Code Inventory
 Here is a [code inventory](./code/Inventory.md) I have aggregated. It has a list of files with descriptions and what they intend to example. Labs are not included in this, they are course specific and detailed below.
